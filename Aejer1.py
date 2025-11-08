@@ -9,7 +9,7 @@ calcule la media aritmética (promedio) entre ellos.
 
 
 def Promedio(num1,num2, num3, num4):
-    return (num1+num2+num3+num4)/4
+    return str((num1+num2+num3+num4)/4)
 
 
 
