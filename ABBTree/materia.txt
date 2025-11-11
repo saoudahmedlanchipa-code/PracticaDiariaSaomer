@@ -1,0 +1,5 @@
+Hay que tomar en cuenta un arbol de busqueda,
+normalmente uno tiene que recorrer el arbol de una manera,
+Se puede insertar nodos, siempre en las hojas.
+se puede eliminar nodos.
+
